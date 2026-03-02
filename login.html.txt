@@ -1,0 +1,16 @@
+<html>
+<head>
+     	<title>School login</title>
+</head>
+<body>
+
+<h2>School management system login</h2>
+<form>
+     <label>username:</label<>br>
+<input type="text"><br><br>
+<label>password:</label><br>
+<input type="password"><br><brbr>
+<button type="submit">login</button>
+</form>
+</body>
+</html>
