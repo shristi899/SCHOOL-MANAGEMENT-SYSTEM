@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h2>School management system login</h2>
+<h2>SCHOOL MANAGEMENT SYSTEM login</h2>
 <form>
      <label>username:</label<>br>
 <input type="text"><br><br>
